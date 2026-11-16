@@ -1,0 +1,29 @@
+﻿status,name,neighborhood,address,phone,happy_hour,deals,notes,source
+verified,The Horse You Came In On Saloon,Fells Point,"1626 Thames St, Baltimore 21231",(410) 327-8111,Mon-Thu 4 PM-8 PM,$3 domestic bottles; $4 seltzers; $5 Green Tea | Lemon Drops; $6 well cocktails,,https://www.thehorsebaltimore.com/specials
+verified,Harbor Tandoor,Fells Point,"803 S Caroline St, Baltimore 21231",(410) 624-7925,Mon-Fri 3 PM-6 PM,$4 local draft beer; $4 house wine; $8 papadum board; $10 Baltimore crab naan; $12 veg or non-veg bite club,,https://www.harbortandoor.com/lunch-happy-hour/
+verified,Wayward Bar & Kitchen,Federal Hill,"1117 S Charles St, Baltimore 21230",(410) 223-2269,Tue-Thu 4 PM-7 PM; Fri all day until 10 PM,$4 drafts; $5 single rail mixed drinks; $6.50 Surfside cans; Full-size happy hour food,Closed Mondays.,https://www.waywardsmoke.com/happy-hour/
+verified,Liv's Tavern,Federal Hill,"1113 S Charles St, Baltimore 21230",(443) 869-2418,Mon all day; Tue-Thu 4 PM-7 PM; Fri 11 AM-7 PM,"$5 drafts, Rumple & green teas; $6.50 crushes & transfusions; $7 munchies; $8 Flambongs; $10 cocktails",Excludes game days.,https://www.livstavern.com/happy-hour/
+verified,Nobles Bar and Grill,Federal Hill,"1024 S Charles St, Baltimore 21230",(410) 727-1355,Tue-Fri 4 PM-7 PM,$5 craft beer cans (all day); $3 Natty Boh 16 oz cans (all day),,http://www.noblesbarandgrill.com/
+verified,The HappyJack Tavern,Canton,"2822 Hudson St, Baltimore 21224",(443) 835-2843,Drinks: Mon-Fri until 6 PM; Food: Mon-Thu 4 PM-6 PM,"$1 off select beer, wine & cocktails; $5 rail liquor; $8 smash burger, veggie burger, grilled chicken or grilled cheese with a side",Food is dine-in only.,https://www.happyjacktavern.com/happy-hour
+verified,Smaltimore,Canton,"2522 Fait Ave, Baltimore 21224",(410) 522-1421,Mon-Fri until 7 PM,$6 house wine; $6 select drafts; $6 Four Walls; $6 Jameson,Start time isn't listed on their site.,http://www.smaltimoremd.com/
+verified,Mama's on the Half Shell,Canton,"2901 O'Donnell St, Baltimore 21224",(410) 276-3160,Mon-Fri 3 PM-6 PM,,"First floor, indoors only.",https://www.mamasonthehalfshell.com/
+verified,of Love & Regret,Canton,"1028 S Conkling St, Baltimore 21224",(410) 327-0760,Tue-Fri 4 PM-6:30 PM,,,http://www.olarbmore.com/
+verified,Chilango's,Fells Point,"901 S Wolfe St, Baltimore 21231",(443) 963-1734,Mon-Fri 3 PM-7 PM,,Their website gives the address as 915 S Wolfe St.,http://chilangosatfellspoint.com/
+verified,Rye,Fells Point,"1639 Thames St, Baltimore 21231",(667) 205-1096,Mon-Fri 5 PM-7 PM,,,http://ryebaltimore.com/
+verified,The Point in Fells,Fells Point,"1738 Thames St, Baltimore 21231",(410) 327-7264,"Mon, Wed, Thu 4 PM-7 PM; Fri all day",,,http://www.thepointinfells.com/happy-hour
+verified,The Outpost American Tavern,Federal Hill,"1032 Riverside Ave, Baltimore 21230",(443) 388-9113,Mon-Fri 4 PM-6 PM,,,http://theoutpostbaltimore.com/
+verified,Bayside Cantina,Canton,"2809 Boston St, Baltimore 21224",(410) 646-8532,Mon-Fri 3 PM-7 PM,,,https://www.baysidecantina.com/
+lead,Claddagh Pub,Canton,"2918 O'Donnell St, Baltimore 21224",,,,Mentions happy hour on its site; times not stated clearly,http://www.claddaghbaltimore.com/
+lead,El Bufalo Tequila Bar & Kitchen,Canton,"2921 O'Donnell St, Baltimore 21224",,,,Mentions happy hour on its site; times not stated clearly,https://www.elbufalobaltimore.net/
+lead,Ellie's Tavern,Canton,"901 S Clinton St, Baltimore 21224",,,,Mentions happy hour on its site; times not stated clearly,http://elliestavernbmore.com/baltimore-canton-ellie-s-tavern-food-menu
+lead,The Greene Turtle Sports Bar & Grille,Canton,"3803 Boston St, Baltimore 21224",,,,Mentions happy hour on its site; times not stated clearly,https://www.thegreeneturtle.com/location/canton-md/
+lead,Cross Street Public House,Federal Hill,"26 E Cross St, Baltimore 21230",,,,Mentions happy hour on its site; times not stated clearly,http://www.crossstreetpublichouse.com/happy-hour
+lead,Locals Only,Federal Hill,"25 E Cross St, Baltimore 21230",,,,Mentions happy hour on its site; times not stated clearly,http://localsonlybaltimore.com/
+lead,OctoBar,Federal Hill,"1400 Light St, Baltimore 21230",,,,Mentions happy hour on its site; times not stated clearly,https://octobarbaltimore.com/happy-hour-4/
+lead,Watershed,Federal Hill,"1065 S Charles St Ste 101, Baltimore 21230",,,,Mentions happy hour on its site; times not stated clearly,http://www.watershedbaltimore.com/
+lead,Ale Mary's,Fells Point,"1939 Fleet St, Baltimore 21231",,,,Mentions happy hour on its site; times not stated clearly,https://alemarys.com/
+lead,Ampersea,Fells Point,"1417 Thames St, Baltimore 21231",,,,Mentions happy hour on its site; times not stated clearly,https://www.ampersea.com/menu/
+lead,Barcocina,Fells Point,"1629 Thames St, Baltimore 21231",,,,Mentions happy hour on its site; times not stated clearly,https://www.barcocina.com/eat
+lead,Prima Dopo Cucina & Cocktail House,Fells Point,"1724 Thames St, Baltimore 21231",,,,Mentions happy hour on its site; times not stated clearly,https://www.primadopobaltimore.com/
+lead,The Dara,Fells Point,"906 S Wolfe St, Baltimore 21231",,,,Mentions happy hour on its site; times not stated clearly,http://www.thedarakitchen.com/menu
+lead,Waterfront Hotel,Fells Point,"1710 Thames St, Baltimore 21231",,,,Mentions happy hour on its site; times not stated clearly,http://www.waterfronthotelfellspoint.com/

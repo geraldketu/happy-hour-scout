@@ -1,0 +1,462 @@
+{
+  "city": "Baltimore, MD",
+  "checked": "Nov 15, 2026",
+  "note": "Verified against each venue's own website on the date above. Times and prices change.",
+  "verified": [
+    {
+      "name": "The Horse You Came In On Saloon",
+      "hood": "Fells Point",
+      "address": "1626 Thames St, Baltimore 21231",
+      "phone": "(410) 327-8111",
+      "source": "https://www.thehorsebaltimore.com/specials",
+      "segments": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": "16:00",
+          "end": "20:00"
+        }
+      ],
+      "deals": [
+        "$3 domestic bottles",
+        "$4 seltzers",
+        "$5 Green Tea | Lemon Drops",
+        "$6 well cocktails"
+      ],
+      "note": null
+    },
+    {
+      "name": "Harbor Tandoor",
+      "hood": "Fells Point",
+      "address": "803 S Caroline St, Baltimore 21231",
+      "phone": "(410) 624-7925",
+      "source": "https://www.harbortandoor.com/lunch-happy-hour/",
+      "segments": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "deals": [
+        "$4 local draft beer",
+        "$4 house wine",
+        "$8 papadum board",
+        "$10 Baltimore crab naan",
+        "$12 veg or non-veg bite club"
+      ],
+      "note": null
+    },
+    {
+      "name": "Wayward Bar & Kitchen",
+      "hood": "Federal Hill",
+      "address": "1117 S Charles St, Baltimore 21230",
+      "phone": "(410) 223-2269",
+      "source": "https://www.waywardsmoke.com/happy-hour/",
+      "segments": [
+        {
+          "days": [
+            2,
+            3,
+            4
+          ],
+          "start": "16:00",
+          "end": "19:00"
+        },
+        {
+          "days": [
+            5
+          ],
+          "allDay": true,
+          "end": "22:00"
+        }
+      ],
+      "deals": [
+        "$4 drafts",
+        "$5 single rail mixed drinks",
+        "$6.50 Surfside cans",
+        "Full-size happy hour food"
+      ],
+      "note": "Closed Mondays."
+    },
+    {
+      "name": "Liv's Tavern",
+      "hood": "Federal Hill",
+      "address": "1113 S Charles St, Baltimore 21230",
+      "phone": "(443) 869-2418",
+      "source": "https://www.livstavern.com/happy-hour/",
+      "segments": [
+        {
+          "days": [
+            1
+          ],
+          "allDay": true
+        },
+        {
+          "days": [
+            2,
+            3,
+            4
+          ],
+          "start": "16:00",
+          "end": "19:00"
+        },
+        {
+          "days": [
+            5
+          ],
+          "start": "11:00",
+          "end": "19:00"
+        }
+      ],
+      "deals": [
+        "$5 drafts, Rumple & green teas",
+        "$6.50 crushes & transfusions",
+        "$7 munchies",
+        "$8 Flambongs",
+        "$10 cocktails"
+      ],
+      "note": "Excludes game days."
+    },
+    {
+      "name": "Nobles Bar and Grill",
+      "hood": "Federal Hill",
+      "address": "1024 S Charles St, Baltimore 21230",
+      "phone": "(410) 727-1355",
+      "source": "http://www.noblesbarandgrill.com/",
+      "segments": [
+        {
+          "days": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": "16:00",
+          "end": "19:00"
+        }
+      ],
+      "deals": [
+        "$5 craft beer cans (all day)",
+        "$3 Natty Boh 16 oz cans (all day)"
+      ],
+      "note": null
+    },
+    {
+      "name": "The HappyJack Tavern",
+      "hood": "Canton",
+      "address": "2822 Hudson St, Baltimore 21224",
+      "phone": "(443) 835-2843",
+      "source": "https://www.happyjacktavern.com/happy-hour",
+      "segments": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "end": "18:00",
+          "label": "Drinks"
+        },
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "start": "16:00",
+          "end": "18:00",
+          "label": "Food"
+        }
+      ],
+      "deals": [
+        "$1 off select beer, wine & cocktails",
+        "$5 rail liquor",
+        "$8 smash burger, veggie burger, grilled chicken or grilled cheese with a side"
+      ],
+      "note": "Food is dine-in only."
+    },
+    {
+      "name": "Smaltimore",
+      "hood": "Canton",
+      "address": "2522 Fait Ave, Baltimore 21224",
+      "phone": "(410) 522-1421",
+      "source": "http://www.smaltimoremd.com/",
+      "segments": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "end": "19:00"
+        }
+      ],
+      "deals": [
+        "$6 house wine",
+        "$6 select drafts",
+        "$6 Four Walls",
+        "$6 Jameson"
+      ],
+      "note": "Start time isn't listed on their site."
+    },
+    {
+      "name": "Mama's on the Half Shell",
+      "hood": "Canton",
+      "address": "2901 O'Donnell St, Baltimore 21224",
+      "phone": "(410) 276-3160",
+      "source": "https://www.mamasonthehalfshell.com/",
+      "segments": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": "15:00",
+          "end": "18:00"
+        }
+      ],
+      "deals": [],
+      "note": "First floor, indoors only."
+    },
+    {
+      "name": "of Love & Regret",
+      "hood": "Canton",
+      "address": "1028 S Conkling St, Baltimore 21224",
+      "phone": "(410) 327-0760",
+      "source": "http://www.olarbmore.com/",
+      "segments": [
+        {
+          "days": [
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": "16:00",
+          "end": "18:30"
+        }
+      ],
+      "deals": [],
+      "note": null
+    },
+    {
+      "name": "Chilango's",
+      "hood": "Fells Point",
+      "address": "901 S Wolfe St, Baltimore 21231",
+      "phone": "(443) 963-1734",
+      "source": "http://chilangosatfellspoint.com/",
+      "segments": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": "15:00",
+          "end": "19:00"
+        }
+      ],
+      "deals": [],
+      "note": "Their website gives the address as 915 S Wolfe St."
+    },
+    {
+      "name": "Rye",
+      "hood": "Fells Point",
+      "address": "1639 Thames St, Baltimore 21231",
+      "phone": "(667) 205-1096",
+      "source": "http://ryebaltimore.com/",
+      "segments": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": "17:00",
+          "end": "19:00"
+        }
+      ],
+      "deals": [],
+      "note": null
+    },
+    {
+      "name": "The Point in Fells",
+      "hood": "Fells Point",
+      "address": "1738 Thames St, Baltimore 21231",
+      "phone": "(410) 327-7264",
+      "source": "http://www.thepointinfells.com/happy-hour",
+      "segments": [
+        {
+          "days": [
+            1,
+            3,
+            4
+          ],
+          "start": "16:00",
+          "end": "19:00"
+        },
+        {
+          "days": [
+            5
+          ],
+          "allDay": true
+        }
+      ],
+      "deals": [],
+      "note": null
+    },
+    {
+      "name": "The Outpost American Tavern",
+      "hood": "Federal Hill",
+      "address": "1032 Riverside Ave, Baltimore 21230",
+      "phone": "(443) 388-9113",
+      "source": "http://theoutpostbaltimore.com/",
+      "segments": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": "16:00",
+          "end": "18:00"
+        }
+      ],
+      "deals": [],
+      "note": null
+    },
+    {
+      "name": "Bayside Cantina",
+      "hood": "Canton",
+      "address": "2809 Boston St, Baltimore 21224",
+      "phone": "(410) 646-8532",
+      "source": "https://www.baysidecantina.com/",
+      "segments": [
+        {
+          "days": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "start": "15:00",
+          "end": "19:00"
+        }
+      ],
+      "deals": [],
+      "note": null
+    }
+  ],
+  "leads": [
+    {
+      "name": "Claddagh Pub",
+      "hood": "Canton",
+      "address": "2918 O'Donnell St, Baltimore 21224",
+      "source": "http://www.claddaghbaltimore.com/"
+    },
+    {
+      "name": "El Bufalo Tequila Bar & Kitchen",
+      "hood": "Canton",
+      "address": "2921 O'Donnell St, Baltimore 21224",
+      "source": "https://www.elbufalobaltimore.net/"
+    },
+    {
+      "name": "Ellie's Tavern",
+      "hood": "Canton",
+      "address": "901 S Clinton St, Baltimore 21224",
+      "source": "http://elliestavernbmore.com/baltimore-canton-ellie-s-tavern-food-menu"
+    },
+    {
+      "name": "The Greene Turtle Sports Bar & Grille",
+      "hood": "Canton",
+      "address": "3803 Boston St, Baltimore 21224",
+      "source": "https://www.thegreeneturtle.com/location/canton-md/"
+    },
+    {
+      "name": "Cross Street Public House",
+      "hood": "Federal Hill",
+      "address": "26 E Cross St, Baltimore 21230",
+      "source": "http://www.crossstreetpublichouse.com/happy-hour"
+    },
+    {
+      "name": "Locals Only",
+      "hood": "Federal Hill",
+      "address": "25 E Cross St, Baltimore 21230",
+      "source": "http://localsonlybaltimore.com/"
+    },
+    {
+      "name": "OctoBar",
+      "hood": "Federal Hill",
+      "address": "1400 Light St, Baltimore 21230",
+      "source": "https://octobarbaltimore.com/happy-hour-4/"
+    },
+    {
+      "name": "Watershed",
+      "hood": "Federal Hill",
+      "address": "1065 S Charles St Ste 101, Baltimore 21230",
+      "source": "http://www.watershedbaltimore.com/"
+    },
+    {
+      "name": "Ale Mary's",
+      "hood": "Fells Point",
+      "address": "1939 Fleet St, Baltimore 21231",
+      "source": "https://alemarys.com/"
+    },
+    {
+      "name": "Ampersea",
+      "hood": "Fells Point",
+      "address": "1417 Thames St, Baltimore 21231",
+      "source": "https://www.ampersea.com/menu/"
+    },
+    {
+      "name": "Barcocina",
+      "hood": "Fells Point",
+      "address": "1629 Thames St, Baltimore 21231",
+      "source": "https://www.barcocina.com/eat"
+    },
+    {
+      "name": "Prima Dopo Cucina & Cocktail House",
+      "hood": "Fells Point",
+      "address": "1724 Thames St, Baltimore 21231",
+      "source": "https://www.primadopobaltimore.com/"
+    },
+    {
+      "name": "The Dara",
+      "hood": "Fells Point",
+      "address": "906 S Wolfe St, Baltimore 21231",
+      "source": "http://www.thedarakitchen.com/menu"
+    },
+    {
+      "name": "Waterfront Hotel",
+      "hood": "Fells Point",
+      "address": "1710 Thames St, Baltimore 21231",
+      "source": "http://www.waterfronthotelfellspoint.com/"
+    }
+  ]
+}

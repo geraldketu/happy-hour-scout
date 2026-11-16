@@ -1,0 +1,7 @@
+.env
+# full working database (contains Google Places fields that may not be redistributed)
+data/*
+!data/verified/
+__pycache__/
+.pytest_cache/
+.venv/
